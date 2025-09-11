@@ -1,0 +1,36 @@
+John Doe
+Email: john.doe@email.com
+Phone: +1-234-567-8901
+LinkedIn: linkedin.com/in/johndoe
+GitHub: github.com/johndoe
+
+Professional Summary:
+Highly motivated software developer with 2+ years of experience in Python, .NET, and data preprocessing. 
+Passionate about building efficient applications, data-driven solutions, and contributing to team success.
+
+Technical Skills:
+- Programming: Python, C#, VB.NET, SQL
+- Frameworks: .NET, ASP.NET, ADO.NET
+- Tools: Git, VS Code, Visual Studio
+- Databases: SQL Server, MySQL
+
+Projects:
+- BMI Calculator (CLI & GUI)
+- Weather Forecast App
+- Chatroom Application in Python
+- Data Preprocessing pipelines (NumPy, pandas)
+
+Education:
+B.Tech in Computer Science, XYZ University, 2022
+
+Experience:
+Software Developer Intern – ABC Technologies (Jan 2022 – Jun 2022)
+- Developed .NET-based applications and implemented ADO.NET for database handling.
+- Automated data preprocessing tasks using Python libraries.
+
+Achievements:
+- Built multiple end-to-end Python projects.
+- Awarded "Best Intern of the Year" at ABC Technologies.
+
+References:
+Available upon request.
