@@ -1,0 +1,33 @@
+Job Title: Junior Software Developer (.NET/Python)
+
+Company: ABC Technologies Pvt Ltd
+
+Location: Remote / On-site
+
+Job Summary:
+We are seeking a passionate and detail-oriented Junior Software Developer with a strong foundation 
+in Python, .NET technologies, and data handling. The ideal candidate should be comfortable working 
+on both web and console applications and have a strong interest in software development and problem-solving.
+
+Key Responsibilities:
+- Develop and maintain applications using .NET (C#, ASP.NET, ADO.NET).
+- Work on data preprocessing tasks using Python (NumPy, pandas).
+- Implement and test console and web-based applications.
+- Debug, optimize, and document software modules.
+- Collaborate with senior developers and contribute to project discussions.
+
+Requirements:
+- Strong programming knowledge in Python and C#.
+- Familiarity with .NET framework, ADO.NET, and ASP.NET.
+- Experience with SQL databases (SQL Server/MySQL).
+- Basic understanding of software development lifecycle (SDLC).
+- Good problem-solving and communication skills.
+
+Preferred:
+- Internship or project experience in .NET or Python.
+- Knowledge of web technologies (HTML, CSS, JavaScript).
+- Experience with Git or other version control systems.
+
+Salary: Competitive and based on experience.
+
+Apply at: careers@abctech.com
