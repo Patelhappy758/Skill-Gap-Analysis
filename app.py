@@ -10,7 +10,6 @@ from parser_pipeline import extract_text_auto
 st.set_page_config(page_title="Milestone 1: Upload & Parse", layout="wide")
 
 st.title("Document Upload & Parsing")
-st.caption("Milestone 1: Data ingestion, parsing, and cleaned preview")
 
 
 def save_uploaded_file(uploaded_file) -> Optional[str]:
@@ -53,5 +52,4 @@ if parse_btn and uploaded is not None:
         st.error(f"Failed to parse: {e}")
 
 st.divider()
-st.caption("Tip: Try the sample files in the repository's source folder.")
 

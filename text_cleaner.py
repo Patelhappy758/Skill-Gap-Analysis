@@ -45,4 +45,3 @@ if __name__ == "__main__":
         "Machine-\nlearning, data\tScience\n\n  Skills: Python, SQL"
     )
     print(basic_clean(sample))
-
